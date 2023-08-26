@@ -1,0 +1,34 @@
+h1 {
+    background: rgb(0, 83, 11);
+}
+
+.paragraph-1 {
+    background: rebeccapurple;
+    font-size: 32pt;
+    color: aquamarine;
+}
+
+.paragraph-2 {
+    border: 4px solid yellow;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-left: 20px;
+    background: red;
+    color: rgb(92, 165, 33);
+}
+
+.paragraph-3 {
+    font-weight: bold;
+    font-size: 22pt;
+    font-family: 'Comic Sans MS';
+    background: pink;
+    color: rgb(119, 0, 167);
+}
+
+.paragraph-4 {
+    font-style: italic;
+    font-size: 24px;
+    text-align: center;
+    text-shadow: 5px, 5px, 10px green; /*Вообще не получается сделать тень, как-бы не пытался...*/
+}
